@@ -1,0 +1,8 @@
+.idea/
+logs
+facepics
+video2
+videos
+led / optimized / DLL files
+__pycache__/
+*$py.class
